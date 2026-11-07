@@ -1,0 +1,9 @@
+llama.cpp/
+modelos/
+ComfyUI_windows_portable/
+*.gguf
+*.safetensors
+*.log
+configuraciones/modelos-local.ini
+*.zip
+*.7z
